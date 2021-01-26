@@ -1,0 +1,6 @@
+name: Permissions Module
+type: module
+description: 'hook_permissions'
+package: Mafe
+version: '8.0.0'
+core: 8.x
