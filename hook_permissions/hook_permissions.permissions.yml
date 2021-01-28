@@ -1,4 +1,4 @@
-access all views:
-  title: 'Menu access control'
-  description: 'Menu access control when accessing to module permissions.'
+access all hook_permissions:
+  title: 'hook_permissions access control'
+  description: 'hook_permissions access control when accessing to module permissions.'
   restrict access: TRUE
